@@ -1,0 +1,7 @@
+type,extension,folder,structure,dx_supported,is_bundle,in_folder,has_meta_file,child_types,note
+CareLimitType,-,-,UNKNOWN,no,,,,,type not present in this org's describe (unsupported or misspelled)
+ExternalStoragePrvdConfig,-,-,UNKNOWN,no,,,,,type not present in this org's describe (unsupported or misspelled)
+IdentityVerificationProcDef,-,-,UNKNOWN,no,,,,,type not present in this org's describe (unsupported or misspelled)
+LearningAchievementConfig,-,-,UNKNOWN,no,,,,,type not present in this org's describe (unsupported or misspelled)
+DataObjectSearchIndexConf,.dataObjectSearchIndexConf,dataObjectSearchIndexConfs,FLAT,yes,no,no,no,,
+CareRequestConfiguration,.careRequestConfiguration,careRequestConfigurations,FLAT,yes,no,no,no,,

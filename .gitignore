@@ -1,0 +1,11 @@
+# OS junk
+.DS_Store
+
+# Local Claude Code settings (machine-specific, not meant to be shared)
+.claude/settings.local.json
+
+# Script output — regenerate from your own org, don't commit real org data
+components/
+out/
+result.csv
+report.json

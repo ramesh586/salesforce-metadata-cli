@@ -1,0 +1,16 @@
+# One metadata type per line. Blank lines and #-comments are ignored.
+AdminSuccessSettings
+AgentforceAccountManagementSettins
+AgenticCtxtDecorDefinition
+CnfgItemAttrDef
+CnfgItemAttrPcklstValDef
+CnfgItemAttrPicklistDef
+CnfgItemAttrSetAttr
+CnfgItemAttrSetDef
+CnfgItemSourceDefinition
+CnfgItemTypeAttrRelDef
+CnfgItemTypeDef
+CnfgItemTypeRelationDef
+CnfgMgmtRelationTypeDef 
+DataMaskPolicy
+DataMaskSettings
